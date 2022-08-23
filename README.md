@@ -7,7 +7,7 @@ Contient le rapport final
 ## User stories 
 La liste des fonctionnalités livrées par user story.
 
-### Milestone
+### Milestone X
 
 Chaque user story doit être décrite par 
    - son identifiant en tant que issue github (#), 
