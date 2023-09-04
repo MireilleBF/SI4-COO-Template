@@ -14,7 +14,6 @@
         <junit.jupiter.version>5.8.0</junit.jupiter.version>
         <cucumber.version>7.13.0</cucumber.version>
     </properties>
-
     <dependencyManagement>
         <dependencies>
             <dependency>
