@@ -1,4 +1,4 @@
-# SopiaTech Eats-Team-#template
+# SopiaTech Eats-Team-23-24 #template
 _Template for classroom SI4-COO_
 
 >. CETTE PAGE DOIT ETRE MISE A JOUR POUR CORRESPONDRE A VOTRE PROJET.  
