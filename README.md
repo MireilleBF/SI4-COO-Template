@@ -1,4 +1,4 @@
-# Cookiefactory-22-23-Team-#template
+# SopiaTech Eats-Team-#template
 _Template for classroom SI4-COO_
 
 ## doc
@@ -15,7 +15,8 @@ Sur cette version initiale seule un test Junit5 est déclenché pour vérifier q
        - Cucumber 7 et JUnit 5
        - Maven compatible
        - JDK 17
-
+       - Etc.
+   Il sera mis à jour avec la démonstration qui vous sera donnée ultérieurement.
 
 
 ## User stories 
