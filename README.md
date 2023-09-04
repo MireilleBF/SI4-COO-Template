@@ -32,7 +32,7 @@ De nouveaux exemples vous seront donnés.
 Nous les laissons cependant pour votre permettre de vérifier que vous n'avez pas de problème d'intégration continue.
 
 
-## Ce que fait votre projet
+<!-- ## Ce que fait votre projet
 
 
 ### Principales User stories
@@ -41,7 +41,7 @@ Chaque user story doit être décrite par
    - son identifiant en tant que issue github (#), 
    - sa forme classique (As a… I want to… In order to…) (pour faciliter la lecture)
    - Le nom du fichier feature Cucumber et le nom des scénarios qui servent de tests d’acceptation pour la story.
-   Les contenus détaillés sont dans l'issue elle-même.
+   Les contenus détaillés sont dans l'issue elle-même. -->
    
 
    
